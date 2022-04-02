@@ -41,7 +41,7 @@ THEN I am again presented with current and future conditions for that city
 
 # Usage
 
-![Screenshot of Website](https://github.com/lazaralexander/day-scheduler/blob/main/images/Screenshot%202022-03-26%20100628.png "Website")
+![Screenshot of Website](https://github.com/lazaralexander/weather-dashboard/blob/main/assets/images/Screenshot%202022-04-02%20165658.png "Website")
 
 # Links
 
