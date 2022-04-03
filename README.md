@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project we were tasked with creating a weather dashboard. Using bootstrap, jQuery, and the openweather api we created a simple dashboard to check the weather of your favorite city!
+In this project we were tasked with creating a weather dashboard. Using bootstrap, javascript, html, and the openweather api we created a simple dashboard to check the weather of your favorite city! The application can also store some of your recently searched cities in the localStorage. 
 
 # Assingment Details
 
