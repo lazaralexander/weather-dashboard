@@ -25,7 +25,7 @@ async function getCityData() {
 	//One Call API variables
 	const apiRoot = "https://api.openweathermap.org/data/2.5/onecall";
 	const apiQuery = `?lat=${cityGeo.coord.lat}&lon=${cityGeo.coord.lon}&exclude=minutely,hourly,alerts&units=imperial`;
-	const apiKey = "&appid=0da948eb4dff4edc16d53212f5e1d944";
+	const apiKey = "&appid=508ed8182d2bff837f9e25d028629395";
 
 	const fetchForecast = await fetch(apiRoot + apiQuery + apiKey)
 		.then((response) => response.json())
